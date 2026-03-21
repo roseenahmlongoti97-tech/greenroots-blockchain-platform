@@ -17,4 +17,4 @@ GreenRoots Youth Initiative is developing a blockchain-enabled platform designed
 ## Status
 Pre-MVP development stage.
 
-This repository will host prototype development supported through the UNICEF Venture Fund Blockchain Innovation Programme.
+This repository will host prototype development supported through the UNICEF Ventu
